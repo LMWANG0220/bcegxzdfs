@@ -12,7 +12,7 @@ window.VERSION = '1';
 window.TITLE = '【填工艺名称】';
 
 /* ③ 副标题 —— 顶部小字，可以是英文或工艺要点，不需要就写 '' */
-window.SUBTITLE = '【填副标题】';
+window.SUBTITLE = '下柱墩防水工艺节点样板展示';
 
 /* ④ 效果图 —— 换成真实照片，文件名 1.jpg / 2.jpg / 3.jpg
       张数随便：多加一张就多写一行，少一张就删一行 */
@@ -44,15 +44,15 @@ window.IMAGES = [
    ============================================================ */
 window.CARDS = [
   {
-    title: '查看【某某】轻量化模型',
-    link: '【填网址】',
+    title: '查看下柱墩防水轻量化模型',
+    link: 'https://share-xt.hwbim.com/qlh/b46912f6981749419898d9c9d8f9627',
     tip: '长按识别二维码',
     btn: '直接打开'
   },
 
   {
-    title: '查看【某某】施工方案交底资料',
-    link: '【填网址】',
+    title: '查看地下室防水施工方案交底资料',
+    link: 'https://www.kdocs.cn/l/crFien0qF6I2',
     tip: '长按识别二维码',
     btn: '直接打开'
   }
