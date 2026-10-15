@@ -45,7 +45,7 @@ window.IMAGES = [
 window.CARDS = [
   {
     title: '查看下柱墩防水轻量化模型',
-    link: 'https://share-xt.hwbim.com/qlh/b46912f6981749419898d9c9d8f9627',
+    link: 'https://share-xt.hwbim.com/qlh/fe7e261b6c144a16919f0c36a6634656',
     tip: '长按识别二维码',
     btn: '直接打开'
   },
