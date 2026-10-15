@@ -9,10 +9,10 @@ window.VERSION = '1';
 
 /* ② 工艺名称 —— 页面顶部大字 + 微信标题
       例：桩头防水处理工艺样板展示 */
-window.TITLE = '【填工艺名称】';
+window.TITLE = '下柱墩防水工艺节点样板展示';
 
 /* ③ 副标题 —— 顶部小字，可以是英文或工艺要点，不需要就写 '' */
-window.SUBTITLE = '下柱墩防水工艺节点样板展示';
+window.SUBTITLE = 'PILE CAP WATERPROOFING DETAIL SAMPLE DISPLAY';
 
 /* ④ 效果图 —— 换成真实照片，文件名 1.jpg / 2.jpg / 3.jpg
       张数随便：多加一张就多写一行，少一张就删一行 */
